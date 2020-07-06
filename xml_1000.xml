@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<FCC>
+  <HEAD>
+    <VER>1.0</VER>
+    <APP>冀时办</APP>
+    <BCode/>
+    <TXID/>
+    <MsgID/>
+    <WorkDate/>
+    <LEI/>
+  </HEAD>
+  <MSG>
+    <CountryCode/>
+    <ProvinceCode/>
+    <CityCode/>
+    <AreaCode/>
+    <Birthday/>
+    <BankCode/>
+    <ComplaintDate/>
+    <ComplaintChannel/>
+    <ComplaintType/>
+    <ComplaintReason/>
+    <ComplaintAccount/>
+    <ComplaintNumber/>
+    <ComplaintReq/>
+    <DoneDate/>
+    <Reversed1/>
+    <Reversed2/>
+    <Reversed3/>
+    <Reversed4/>
+    <Reversed5/>
+  </MSG>
+</FCC>

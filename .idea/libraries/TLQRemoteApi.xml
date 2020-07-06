@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TLQRemoteApi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/TLQRemoteApi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
